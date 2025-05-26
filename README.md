@@ -1,7 +1,3 @@
-Absolutely! Here’s a **ready-to-use, professional README** for your SEO Crawler Platform project using Airflow, Scrapy, and Supabase.
-
----
-
 # 🚀 SEO Crawler Platform
 
 A scalable, open-source platform to **crawl any website**, store raw HTML in Supabase Storage, and index page metadata in a Supabase Postgres table. Built for extensibility, automation, and easy cloud deployment.
